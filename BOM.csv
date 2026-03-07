@@ -1,0 +1,18 @@
+Index,Quantity,Part Number,Manufacturer Part Number,Description,Customer Reference,Available,Backorder,Unit Price,Extended Price USD,Link
+1,1,5407-ESP32-S3-WROOM-1-N8R2CT-ND,ESP32-S3-WROOM-1-N8R2,"SMD MODULE, ESP32-S3R2 WITH 2 MB",,1,0,5.71,5.71,https://www.digikey.in/en/products/result?keywords=5407-ESP32-S3-WROOM-1-N8R2CT-ND
+2,1,MCP73831T-2ATI/OTCT-ND,MCP73831T-2ATI/OT,IC BATT CNTL LI-ION 1CEL SOT23-5,,1,0,0.76,0.76,https://www.digikey.in/en/products/result?keywords=MCP73831T-2ATI/OTCT-ND
+3,1,2073-USB4105-GF-ACT-ND,USB4105-GF-A,CONN RCP USB2.0 TYP C 16P SMD RA,,1,0,0.78,0.78,https://www.digikey.in/en/products/result?keywords=2073-USB4105-GF-ACT-ND
+4,4,160-1436-1-ND,LTST-C190KRKT,LED RED CLEAR CHIP SMD,,4,0,0.14,0.56,https://www.digikey.in/en/products/result?keywords=160-1436-1-ND
+5,3,YAG1994CT-ND,RT0805BRD0791KL,RES SMD 91K OHM 0.1% 1/8W 0805,,3,0,0.16,0.48,https://www.digikey.in/en/products/result?keywords=YAG1994CT-ND
+6,2,YAG2052CT-ND,RT1206BRD07499RL,RES SMD 499 OHM 0.1% 1/4W 1206,,2,0,0.17,0.34,https://www.digikey.in/en/products/result?keywords=YAG2052CT-ND
+7,3,YAG1787CT-ND,RT0805BRD0715KL,RES SMD 15K OHM 0.1% 1/8W 0805,,3,0,0.11,0.33,https://www.digikey.in/en/products/result?keywords=YAG1787CT-ND
+8,6,YAG2978CT-ND,RC0402FR-07140KL,RES 140K OHM 1% 1/16W 0402,,6,0,0.1,0.6,https://www.digikey.in/en/products/result?keywords=YAG2978CT-ND
+9,1,445-173172-1-ND,FG18C0G1H103JNT06,CAP CER 10000PF 50V C0G RADIAL,,1,0,0.35,0.35,https://www.digikey.in/en/products/result?keywords=445-173172-1-ND
+10,2,490-13239-1-ND,GRM155R60J106ME47D,CAP CER 10UF 6.3V X5R 0402,,2,0,0.45,0.9,https://www.digikey.in/en/products/result?keywords=490-13239-1-ND
+11,10,490-5523-1-ND,GRM21BR61E106KA73L,CAP CER 10UF 25V X5R 0805,,10,0,0.096,0.96,https://www.digikey.in/en/products/result?keywords=490-5523-1-ND
+12,3,490-13238-1-ND,GRM155R60J106ME15D,CAP CER 10UF 6.3V X5R 0402,,3,0,0.15,0.45,https://www.digikey.in/en/products/result?keywords=490-13238-1-ND
+13,8,490-13111-1-ND,DFEH7030D-100M=P3,FIXED IND 10UH 3A 82 MOHM SMD,,8,0,1.73,13.84,https://www.digikey.in/en/products/result?keywords=490-13111-1-ND
+14,1,455-1704-ND,B2B-PH-K-S,CONN HEADER VERT 2POS 2MM,,1,0,0.11,0.11,https://www.digikey.in/en/products/result?keywords=455-1704-ND
+15,1,S1011EC-40-ND,PRPC040SAAN-RC,CONN HEADER VERT 40POS 2.54MM,,1,0,0.55,0.55,https://www.digikey.in/en/products/result?keywords=S1011EC-40-ND
+16,1,DigiKey Shipping,Digikey,"DigiKey shipping",,,,20.0,20.0,https://www.digikey.in
+17,1,PCB + Stencil + Shipping,JLCPCB,"PCB fabrication, stencil and shipping",,,,27.56,27.56,https://jlcpcb.in
